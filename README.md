@@ -1,5 +1,5 @@
-# A very basic nodejs challenge
+# A very basic nodejs challenge for wizeline
 
-## Install some dev packages:
+## Run the project with:
 
-`npm i -D nodemon`
+`npm start `
