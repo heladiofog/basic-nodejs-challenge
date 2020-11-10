@@ -4,6 +4,7 @@
   "description": "A very basic node js application with mongodb access throug graphql.",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/heladiofog/basic-nodejs-challenge/issues"
   },
-  "homepage": "https://github.com/heladiofog/basic-nodejs-challenge#readme"
+  "homepage": "https://github.com/heladiofog/basic-nodejs-challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
